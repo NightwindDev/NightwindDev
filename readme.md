@@ -13,4 +13,4 @@ This is the place where I post my projects.
 
 ## 📊 Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightwinddev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
