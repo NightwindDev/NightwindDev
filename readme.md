@@ -30,12 +30,12 @@ This is the place where I post my projects.
 
 <picture>
 <source 
-  srcset="https://github-readme-stats-j16u.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact&theme=dark"
+  srcset="https://github-readme-stats-j16u.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact&card_width=250&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-j16u.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact"
+  srcset="https://github-readme-stats-j16u.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact&card_width=250"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-j16u.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact" />
+<img src="https://github-readme-stats-j16u.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact&card_width=250" />
 </picture>
