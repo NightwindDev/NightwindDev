@@ -18,7 +18,7 @@ This is the place where I post my projects.
 ## 📊 Statistics
 <picture>
 <source 
-  srcset="https://github-readme-stats-j16u.vercel.app/api?username=nightwinddev&count_private=true&theme=tokyonight"
+  srcset="https://github-readme-stats-j16u.vercel.app/api?username=nightwinddev&count_private=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -30,7 +30,7 @@ This is the place where I post my projects.
 
 <picture>
 <source 
-  srcset="https://github-readme-stats-j16u.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact&theme=tokyonight"
+  srcset="https://github-readme-stats-j16u.vercel.app/api/top-langs/?username=nightwinddev&langs_count=8&layout=compact&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
